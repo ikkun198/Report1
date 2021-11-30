@@ -5,17 +5,11 @@
 ### C-HRの特徴
 
 ```markdown
-1,一目でわかる強い個性
-2, 安全機能が充実
-3, 
+1,　一目でわかる強い個性
+2,　安全機能が充実
+3,　インタークーラーターボがついてて加速が良い
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 ```
 
