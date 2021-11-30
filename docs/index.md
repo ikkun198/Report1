@@ -17,7 +17,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://toyota.jp/pages/contents/c-hr/001_p_006/4.0/image/gallery_des-ext_01.jpg)
 ```
 
 ご購入は[こちら](https://toyota.jp/c-hr/)
