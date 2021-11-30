@@ -1,8 +1,6 @@
 ## ようこそ私のページへ
 
-これはレポート１で使用するウェブサイトです。
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+私の趣味についてご紹介させていただきます。
 
 ### Markdown
 
