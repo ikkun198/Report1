@@ -5,9 +5,9 @@
 ### C-HRの特徴
 
 ```markdown
-## 一目でわかる強い個性
-## Header 2
-## Header 3
+1,一目でわかる強い個性
+2, 安全機能が充実
+3, 
 
 - Bulleted
 - List
